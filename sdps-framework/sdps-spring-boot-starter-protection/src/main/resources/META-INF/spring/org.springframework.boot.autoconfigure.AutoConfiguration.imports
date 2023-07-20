@@ -1,0 +1,2 @@
+com.seabox.framework.idempotent.config.SdpsIdempotentConfiguration
+com.seabox.framework.lock4j.config.SdpsLock4jConfiguration

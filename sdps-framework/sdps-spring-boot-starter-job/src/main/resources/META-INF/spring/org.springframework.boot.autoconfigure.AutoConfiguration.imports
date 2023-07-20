@@ -1,0 +1,2 @@
+com.seabox.framework.quartz.config.SdpsXxlJobAutoConfiguration
+com.seabox.framework.quartz.config.SdpsAsyncAutoConfiguration

@@ -1,0 +1,3 @@
+com.seabox.framework.security.config.SdpsSecurityRpcAutoConfiguration
+com.seabox.framework.security.config.SdpsSecurityAutoConfiguration
+com.seabox.framework.security.config.SdpsWebSecurityConfigurerAdapter

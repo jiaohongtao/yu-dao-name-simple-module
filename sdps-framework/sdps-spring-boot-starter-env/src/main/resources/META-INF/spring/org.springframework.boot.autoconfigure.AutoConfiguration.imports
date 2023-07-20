@@ -1,0 +1,2 @@
+com.seabox.framework.env.config.SdpsEnvWebAutoConfiguration
+com.seabox.framework.env.config.SdpsEnvRpcAutoConfiguration

@@ -1,0 +1,2 @@
+com.seabox.framework.redis.config.SdpsRedisAutoConfiguration
+com.seabox.framework.redis.config.SdpsCacheAutoConfiguration

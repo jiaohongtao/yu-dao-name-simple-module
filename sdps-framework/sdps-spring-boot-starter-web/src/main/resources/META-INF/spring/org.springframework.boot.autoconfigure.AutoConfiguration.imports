@@ -1,0 +1,5 @@
+com.seabox.framework.apilog.config.SdpsApiLogAutoConfiguration
+com.seabox.framework.jackson.config.SdpsJacksonAutoConfiguration
+com.seabox.framework.swagger.config.SdpsSwaggerAutoConfiguration
+com.seabox.framework.web.config.SdpsWebAutoConfiguration
+com.seabox.framework.apilog.config.SdpsApiLogRpcAutoConfiguration

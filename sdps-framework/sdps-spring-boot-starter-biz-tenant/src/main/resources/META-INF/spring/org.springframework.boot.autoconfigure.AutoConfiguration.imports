@@ -1,0 +1,3 @@
+com.seabox.framework.tenant.config.SdpsTenantRpcAutoConfiguration
+com.seabox.framework.tenant.config.SdpsTenantAutoConfiguration
+com.seabox.framework.tenant.config.SdpsTenantMQAutoConfiguration

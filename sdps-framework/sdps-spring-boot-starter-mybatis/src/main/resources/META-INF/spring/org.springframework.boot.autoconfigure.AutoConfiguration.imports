@@ -1,0 +1,2 @@
+com.seabox.framework.datasource.config.SdpsDataSourceAutoConfiguration
+com.seabox.framework.mybatis.config.SdpsMybatisAutoConfiguration

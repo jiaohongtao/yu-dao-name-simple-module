@@ -1,0 +1,2 @@
+com.seabox.framework.datapermission.config.SdpsDataPermissionAutoConfiguration
+com.seabox.framework.datapermission.config.SdpsDeptDataPermissionAutoConfiguration

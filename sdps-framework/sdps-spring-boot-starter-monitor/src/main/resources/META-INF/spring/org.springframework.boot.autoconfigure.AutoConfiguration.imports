@@ -1,0 +1,2 @@
+com.seabox.framework.tracer.config.SdpsTracerAutoConfiguration
+com.seabox.framework.tracer.config.SdpsMetricsAutoConfiguration
